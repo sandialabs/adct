@@ -4,7 +4,7 @@ Application Data Collection Toolkit
 Application Data Collection Tools (ADCT) is a scalable software tool set for gathering, transporting, storing, and retrieving low-volume messages containing time-sensitive data from computational modeling and simulation workflows on clouds, servers, desktops and HPC clusters.
 - It enables the collection and reuse of machine-readable data for machine-learning and artificial intelligence based research in the areas of computing performance modeling, computational system management.
 - It enables the collection of feature-level software use information for organizational understanding of formal or informal computational workflows.
-- It is designed for use across complete computing workflows, including HPC clusters, clouds, servers, desktops, and web browsers.
+- It is designed for use across complete computing workflows.
 - It is implemented to support very long data life-times and based on open standards (JSON, HTTPS).
 - It is licensed to support an open-development model.
 - It is, from an application-development viewpoint, a scalable, simple structured logging library.
